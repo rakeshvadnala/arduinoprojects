@@ -1,8 +1,8 @@
 # arduinoprojects
 These projects for education purpose only
 ### Arduino
-[Arduino Project Web] [ARDUINO]
+ARDUINO Projects Web [ARDUINO]
 
-[ARD]: https://arduinoprojectsall.blogspot.com/
+[ARDUINO]: https://arduinoprojectsall.blogspot.com/
 
 
